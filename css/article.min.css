@@ -1,0 +1,2 @@
+/* ArticleCSS - Licença MIT */
+article{font-family:Arial,sans-serif;line-height:1.7;font-size:1.1em;color:#222}a:visited,article a{text-decoration:none;color:#111}article a:hover{text-decoration:underline}article p,article ul,ol{margin-bottom:1em}article img{max-width:100%;height:auto}article .page-break{page-break-before:always}@media print{.no-print{display:none}}
